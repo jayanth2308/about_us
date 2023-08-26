@@ -1,0 +1,32 @@
+.frstbox{
+    height:400px ;
+    width: 40%;
+    background-color: aliceblue;
+    border: solid 1px;
+    border-radius: 2%;
+}
+.head{
+    height: 100px;
+    width: 100%;
+    background-color: aquamarine;
+    border-radius: 15px 15px 0px 0px;
+}
+.header{
+    height: 80px;
+    width: 25%;
+    margin-left: 7%;
+    margin-top: 0%;
+    position: absolute;
+}
+.size{
+    width:100% ;
+}
+#extend{
+    width: 100%;
+    height: 50px;
+}
+
+.cpcc{
+    height: 300px;
+    overflow: scroll;
+}
